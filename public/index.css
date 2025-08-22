@@ -51,7 +51,7 @@ li {
 .job-details {
   margin-top: 10px;
   padding-left: 20px;
-  list-style: disc;
+  list-style: none;
 }
 
 .home-content-wrap, .job-content-wrap {
